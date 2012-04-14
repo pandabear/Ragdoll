@@ -8,7 +8,7 @@ Hopefully the trip to this application's completion (if I ever reach it) is enli
 == What started this all
 
 What motivated me to try this was this: 
-    <tt>http://i.imgur.com/X0pmA.jpg</tt> 
+    http://i.imgur.com/X0pmA.jpg 
 
 The moment I laid my eyes on it,
 I felt like I wanted to do a Ragdoll named application just for the heck of it.

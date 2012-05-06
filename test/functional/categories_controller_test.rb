@@ -47,7 +47,7 @@ class CategoriesControllerTest < ActionController::TestCase
 
     should "create a new category" do
       assert assigns(:category).persisted?
-      assert redirected_to category_path(assigns(:category))
+      assert_redirected_to category_path(assigns(:category))
     end
   end
 end
